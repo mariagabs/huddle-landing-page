@@ -12,7 +12,7 @@
 }
 
 body {
-  background: url("/img/bg-desktop.svg");
+  background: url("img/bg-desktop.svg");
   background-color: var(--violet);
   background-size: cover;
   background-repeat: no-repeat;
@@ -104,7 +104,7 @@ footer {
 @media (max-width: 1100px) and (min-width: 541px) {
   body {
     overflow-y: scroll;
-    background: url("/img/bg-mobile.svg");
+    background: url("img/bg-mobile.svg");
     background-repeat: no-repeat;
     background-color: var(--violet);
     background-size: cover;
@@ -156,7 +156,7 @@ footer {
 
 @media (max-width: 540px) {
   body {
-    background: url("/img/bg-mobile.svg");
+    background: url("img/bg-mobile.svg");
     background-color: var(--violet);
     background-repeat: no-repeat;
     padding: 1.875rem 2.2rem;
