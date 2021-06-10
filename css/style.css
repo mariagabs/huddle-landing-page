@@ -156,7 +156,7 @@ footer {
 
 @media (max-width: 540px) {
   body {
-    background: url("/img/bg-mobile.svg");
+    background: url("img/bg-mobile.svg");
     background-color: var(--violet);
     background-repeat: no-repeat;
     padding: 1.875rem 2.2rem;
